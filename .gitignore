@@ -1,0 +1,50 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Python-related files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Ignore Poetry virtual environment
+# Poetry often creates a virtual environment outside the project directory, but just in case:
+.env
+.venv
+venv/
+ENV/
+
+# Ignore PyCharm specific files
+.idea/
+*.iml
+
+# Ignore Poetry lock files (if you want to exclude them, though it's often better to include poetry.lock)
+# Note: Generally, you should commit `poetry.lock` to ensure deterministic installs.
+# If you don't want to commit it, uncomment the following line:
+# poetry.lock
+
+# Ignore logs
+*.log
+
+# Ignore testing related files
+htmlcov/
+coverage.xml
+.cache/
+.tox/
+noxfile.py
+.coverage
+coverage/
+nosetests.xml
+test-results/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore build-related files
+build/
+dist/
+*.egg-info/
+.eggs/
+
+.venv/
