@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "lab1-intro"
+version = "0.1.0"
+description = ""
+authors = ["Kamil Rudny <134285490+krudny@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+matplotlib = "^3.9.2"
+numpy = "^2.1.2"
+jupyter = "^1.1.1"
+opencv-python = "^4.10.0.84"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
