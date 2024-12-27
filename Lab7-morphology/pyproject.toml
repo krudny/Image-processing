@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "lab7-morphology"
+version = "0.1.0"
+description = ""
+authors = ["Kamil Rudny <k.rudny1@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+jupyter = "^1.1.1"
+numpy = "^2.2.1"
+matplotlib = "^3.10.0"
+opencv-python = "^4.10.0.84"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
