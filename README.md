@@ -13,7 +13,8 @@ The course aims to introduce students to the fundamentals of image processing, c
 - [Lab4](https://github.com/krudny/Image-processing/blob/main/Lab4-binarization/04_thresholding.ipynb) - binarization, Otsu's method, local binarization, multi-threshold binarization
 - [Lab5](https://github.com/krudny/Image-processing/blob/main/Lab5-resolution/05_resolution.ipynb) - image resolution, interpolation, decimation
 - [Lab6](https://github.com/krudny/Image-processing/blob/main/Lab6-preprocessing/06_context.ipynb) - image preprocessing, noise reduction, edge detection
-- [Lab7](https://github.com/krudny/Image-processing/blob/main/Lab7-bilateral-filtering/07_bilateral.ipynb) - bilateral filter, medical analysis
+- [Lab7](https://github.com/krudny/Image-processing/blob/main/Lab7-preprocessing/10_morphology.ipynb) - morphology, image erosion and dilatation
+- [Lab10](https://github.com/krudny/Image-processing/blob/main/Lab10-bilateral-filtering/07_bilateral.ipynb) - bilateral filter, medical analysis
 
 ## Technologies
 
